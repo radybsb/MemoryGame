@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  background-color: #444444;
+}
+
+h1 {
+  color: #EDEDED;
+  font-size: 5rem;
+  padding-top: 20px;
+}
+
+p {
+  color: #EDEDED;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+
+button {
+  margin: 15px 0;
+}
+
+.container {
+  max-width: 1000px;
+  text-align: center;
+}
+
+.up {
+  color: red;
+  font-size: 6rem;
+}
+
+.right {
+  color: green;
+  font-size: 6rem;
+}
+
+.down {
+  color: blue;
+  font-size: 6rem;
+}
+
+.left {
+  color: yellow;
+  font-size: 6rem;
+}
+
+.arrow-animation {
+  color: white;
+  font-size: 6rem;
+}
+
+.copyright {
+  font-size: 1rem;
+}
